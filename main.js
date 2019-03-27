@@ -1,5 +1,5 @@
 const log = console.log.bind(console);
-log(1)
+log(123);
 
 class Cell {
     constructor() {
